@@ -1,0 +1,188 @@
+<option selected="" value="">-- Please Select --
+</option>
+<option data-parent="Healthcare" value="AED Monitoring">AED Monitoring
+</option>
+<option data-parent="Industrial & Infrastructure" value="Agriculture-Animal Tracking">Agriculture-Animal Tracking
+</option>
+<option data-parent="Industrial & Infrastructure" value="Agriculture-Precision Planting">Agriculture-Precision Planting
+</option>
+<option data-parent="Industrial & Infrastructure" value="Agriculture-Soil Monitoring">Agriculture-Soil Monitoring
+</option>
+<option data-parent="Industrial & Infrastructure" value="Agriculture TBD">Agriculture - Other
+</option>
+<option data-parent="Home &amp; Security" value="Alarm">Alarm
+</option>
+<option data-parent="Public Safety" value="Ambulance">Ambulance
+</option>
+<option data-parent="Consumer" value="Appliances">Appliances
+</option>
+<option data-parent="Sales &amp; Payment" value="ATM ">ATM
+</option>
+<option data-parent="Automotive" value="Automotive TBD">Automotive - Other
+</option>
+<option data-parent="Transportation" value="Aviation">Aviation
+</option>
+<option data-parent="Industrial & Infrastructure" value="Building - Elevator Monitoring">Building - Elevator Monitoring
+</option>
+<option data-parent="Industrial & Infrastructure" value="Building - HVAC">Building - HVAC
+</option>
+<option data-parent="Industrial & Infrastructure" value="Building Automation TBD">Building Automation - Other
+</option>
+<option data-parent="Consumer" value="Camera">Camera
+</option>
+<option data-parent="Sales &amp; Payment" value="Cashier">Cashier
+</option>
+<option value="Cloud Connectivity Page Tag">Cloud Connectivity Page Tag
+</option>
+<option data-parent="Automotive" value="Commercial Vehicle TCU">Commercial Vehicle TCU
+</option>
+<option data-parent="Automotive" value="Connected Gateway">Connected Gateway
+</option>
+<option data-parent="Consumer" value="Consumer TBD">Consumer - Other
+</option>
+<option data-parent="Transportation" value="Container Tracking">Container Tracking
+</option>
+<option data-parent="Sales &amp; Payment" value="Digital Signage">Digital Signage
+</option>
+<option data-parent="Industrial & Infrastructure" value="Drones/UAV/UAS /Robot">Drones/UAV/UAS /Robot
+</option>
+<option value="Embedded Solutions Page Tag">Embedded Solutions Page Tag
+</option>
+<option data-parent="Networking" value="Enterprise Gateway">Enterprise Gateway
+</option>
+<option data-parent="Industrial & Infrastructure" value="Factory Automation">Factory Automation
+</option>
+<option data-parent="Public Safety" value="Fire">Fire
+</option>
+<option data-parent="Transportation" value="Fleet Management">Fleet Management
+</option>
+<option data-parent="Sales &amp; Payment" value="Footfall Measurement">Footfall Measurement
+</option>
+<option data-parent="Home &amp; Security" value="Gateway">Gateway
+</option>
+<option value="Gateway Solutions PageTag">Gateway Solutions PageTag
+</option>
+<option data-parent="Healthcare" value="Glucose Monitoring">Glucose Monitoring
+</option>
+<option data-parent="Field Service &amp; Logistics" value="Goods Tracking">Goods Tracking
+</option>
+<option data-parent="Field Service &amp; Logistics" value="Handheld - Bar Code Scanner">Handheld - Bar Code Scanner
+</option>
+<option data-parent="Field Service &amp; Logistics" value="Handheld - Public Safety">Handheld - Public Safety
+</option>
+<option data-parent="Field Service &amp; Logistics" value="Handheld TBD">Handheld - Other
+</option>
+<option data-parent="Automotive" value="Head Unit">Head Unit
+</option>
+<option data-parent="Healthcare" value="Healthcare TBD">Healthcare - Other
+</option>
+<option data-parent="Home &amp; Security" value="Home Automation">Home Automation
+</option>
+<option data-parent="Home &amp; Security" value="Home TBD">Home - Other
+</option>
+<option data-parent="Industrial & Infrastructure" value="Industrial Gateway">Industrial Gateway
+</option>
+<option data-parent="Industrial & Infrastructure" value="Industrial Heavy Equipment">Industrial Heavy Equipment
+</option>
+<option data-parent="Industrial & Infrastructure" value="Industrial Equipment TBD">Industrial Equipment - Other
+</option>
+<option data-parent="Industrial & Infrastructure" value="Infra - EV Charging Station">Infra - EV Charging Station
+</option>
+<option data-parent="Industrial & Infrastructure" value="Infra - Parking Management">Infra - Parking Management
+</option>
+<option data-parent="Industrial & Infrastructure" value="Infra - Pipeline Management">Infra - Pipeline Management
+</option>
+<option data-parent="Industrial & Infrastructure" value="Infra - Public Lighting">Infra - Public Lighting
+</option>
+<option data-parent="Industrial & Infrastructure" value="Infra - Traffic Light">Infra - Traffic Light
+</option>
+<option data-parent="Industrial & Infrastructure" value="Infra - Video Surveillance">Infra - Video Surveillance
+</option>
+<option data-parent="Industrial & Infrastructure" value="Infra - Waste Management">Infra - Waste Management
+</option>
+<option data-parent="Industrial & Infrastructure" value="Infra - Water Management">Infra - Water Management
+</option>
+<option data-parent="Industrial & Infrastructure" value="Infrastructure TBD">Infrastructure - Other
+</option>
+<option data-parent="Consumer" value="Kid/Pet Tracker">Kid/Pet Tracker
+</option>
+<option data-parent="Mobile Computing" value="Laptop">Laptop
+</option>
+<option data-parent="Mobile Computing" value="Mobile Computing TBD">Mobile Computing - Other
+</option>
+<option data-parent="Networking" value="Network Failover">Network Failover
+</option>
+<option data-parent="Networking" value="Networking TBD">Networking - Other
+</option>
+<option data-parent="Field Service &amp; Logistics" value="Offender Tracking">Offender Tracking
+</option>
+<option data-parent="Energy" value="Oil &amp; Gas">Oil &amp; Gas
+</option>
+<option data-parent="Healthcare" value="Patient Monitoring">Patient Monitoring
+</option>
+<option data-parent="Healthcare" value="PERS/mPERS">PERS/mPERS
+</option>
+<option data-parent="Field Service &amp; Logistics" value="Personel Tracking/Monitoring">Personel Tracking/Monitoring
+</option>
+<option data-parent="Public Safety" value="Police">Police
+</option>
+<option data-parent="Sales &amp; Payment" value="POS">POS
+</option>
+<option data-parent="Public Safety" value="Public Safety TBD">Public Safety - Other
+</option>
+<option data-parent="Transportation" value="Railway">Railway
+</option>
+<option data-parent="Sales &amp; Payment" value="Retail TBD">Retail - Other
+</option>
+<option data-parent="Networking" value="Routers">Routers
+</option>
+<option data-parent="Mobile Computing" value="Rugged Laptop">Rugged Laptop
+</option>
+<option data-parent="Mobile Computing" value="Rugged Tablet">Rugged Tablet
+</option>
+<option data-parent="Home &amp; Security" value="Set-box">Set-box
+</option>
+<option data-parent="Healthcare" value="Sleep Apnea Monitoring">Sleep Apnea Monitoring
+</option>
+<option data-parent="Automotive" value="Smart Antenna">Smart Antenna
+</option>
+<option data-parent="Energy" value="Smart Grid - Generation">Smart Grid - Generation
+</option>
+<option data-parent="Energy" value="Smart Grid -IED (Cap Bank,etc)">Smart Grid -IED (Cap Bank,etc)
+</option>
+<option data-parent="Energy" value="Smart Gird - Transformer">Smart Gird - Transformer
+</option>
+<option data-parent="Energy" value="Smart Grid - TBD">Smart Grid - Other
+</option>
+<option data-parent="Energy" value="Smart Meter - Gas">Smart Meter - Gas
+</option>
+<option data-parent="Energy" value="Smart Meter - Electricity">Smart Meter - Electricity
+</option>
+<option data-parent="Energy" value="Smart Meter - Water">Smart Meter - Water
+</option>
+<option data-parent="Energy" value="Smart Meter - TBD">Smart Meter - Other
+</option>
+<option data-parent="Healthcare" value="Sport &amp; Fitness">Sport &amp; Fitness
+</option>
+<option data-parent="Transportation" value="Stolen Vehicle Tracking">Stolen Vehicle Tracking
+</option>
+<option data-parent="Mobile Computing" value="Tablet">Tablet
+</option>
+<option data-parent="Industrial & Infrastructure" value="Tank Monitoring">Tank Monitoring
+</option>
+<option data-parent="Automotive" value="TCU">TCU
+</option>
+<option data-parent="Transportation" value="Toll Collection">Toll Collection
+</option>
+<option data-parent="Transportation" value="Transit">Transit
+</option>
+<option data-parent="Field Service &amp; Logistics" value="Tracking &amp; Logistics TBD">Tracking &amp; Logistics - Other
+</option>
+<option data-parent="Transportation" value="Transportation TBD">Transportation - Other
+</option>
+<option data-parent="Transportation" value="UBI">UBI
+</option>
+<option data-parent="Sales &amp; Payment" value="Vending/Kiosks/Ticketing">Vending/Kiosks/Ticketing
+</option>
+<option data-parent="Consumer" value="Wearables">Wearables
+</option>
