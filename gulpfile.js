@@ -9,20 +9,20 @@ function defaultTask(cb) {
 
 function copyReferences(cb) {
   return src('node_modules/jquery/dist/jquery.min.js')
-    .pipe(dest('dist/js/'))
+    .pipe(dest('public/js/'))
     .on('end', cb);
 }
 
 function copy(cb) {
-  return src('src/*.html')
-    .pipe(dest('dist/'))
+  return src('src/**/*.html')
+    .pipe(dest('public/'))
     .on('end', cb);
 }
 
 function tsc(cb) {
   const tsResult = src('src/**/*.ts')
     .pipe(tsProject());
-  return tsResult.js.pipe(dest('dist'))
+  return tsResult.js.pipe(dest('public'))
     .on('end', cb);
 }
 
@@ -35,5 +35,5 @@ function watchSource() {
 exports.default = defaultTask;
 exports.copy = copy;
 exports.watch = watchSource;
-exports.build = parallel(copy, tsc);
+exports.build = parallel(copyReferences, copy, tsc);
 exports.tsc = tsc;

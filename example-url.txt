@@ -1,1 +1,2 @@
 ?lsc=pda_machine-design_eblast___eblast-forrester-octave-report-q419&cid=7011M000001Be8KQAS&campaigntype=paid&utm_source=machine-design&utm_medium=eblast&utm_campaign=eblast-forrester-octave-report-q419
+?lsc=my-test-lsc&cid=001122334455&campaigntype=paid&utm_source=my-test-source&utm_medium=my-test-medium&utm_campaign=my-test-campaign
