@@ -1,1 +1,4 @@
-const x = 12;
+
+($ => {
+
+})(window.jQuery);

@@ -1,10 +1,16 @@
-const {src, dest, watch, parallel} = require('gulp');
+const {src, dest, watch, parallel, series} = require('gulp');
 const ts = require('gulp-typescript');
 
 var tsProject = ts.createProject('tsconfig.json');
 
-function defaultTask() {
-  return build();
+function defaultTask(cb) {
+  return series(copyReferences)(cb);
+}
+
+function copyReferences(cb) {
+  return src('node_modules/jquery/dist/jquery.min.js')
+    .pipe(dest('dist/js/'))
+    .on('end', cb);
 }
 
 function copy(cb) {

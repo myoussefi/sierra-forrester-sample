@@ -14,5 +14,8 @@
     "gulp-typescript": "^6.0.0-alpha.1",
     "lite-server": "^2.5.4",
     "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
   }
 }
