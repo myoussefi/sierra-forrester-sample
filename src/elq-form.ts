@@ -5,7 +5,7 @@ class TrackingParameters {
   private cidPattern = /cid=(.[^&]*)(&|$)/;
   private typePattern = /campaigntype=(.[^&]*)(&|$)/;
   private sourcePattern = /utm_source=(.[^&]*)(&|$)/;
-  private mediumPattern = /utm_mdedium=(.[^&]*)(&|$)/;
+  private mediumPattern = /utm_medium=(.[^&]*)(&|$)/;
   private campaignPattern = /utm_campaign=(.[^&]*)(&|$)/;
 
   private lscDefault = 'rf_forrester_rf_roicalc_referral-octave-roi-calc-forrester_referral-octave-roi-calc-forrester';

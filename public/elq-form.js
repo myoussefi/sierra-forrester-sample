@@ -5,7 +5,7 @@ var TrackingParameters = /** @class */ (function () {
         this.cidPattern = /cid=(.[^&]*)(&|$)/;
         this.typePattern = /campaigntype=(.[^&]*)(&|$)/;
         this.sourcePattern = /utm_source=(.[^&]*)(&|$)/;
-        this.mediumPattern = /utm_mdedium=(.[^&]*)(&|$)/;
+        this.mediumPattern = /utm_medium=(.[^&]*)(&|$)/;
         this.campaignPattern = /utm_campaign=(.[^&]*)(&|$)/;
         this.lscDefault = 'rf_forrester_rf_roicalc_referral-octave-roi-calc-forrester_referral-octave-roi-calc-forrester';
         this.cidDefault = '7011M000001BdOHQA0';
